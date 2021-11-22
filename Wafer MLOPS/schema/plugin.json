@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "Wafer mlops",
+  "description": "Wafer mlops settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
